@@ -1,0 +1,20 @@
+.psotdiv {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(3, 141, 136);
+  margin-top: 50px;
+  width: 80%;
+  color: white;
+  /* border: 3px; */
+  /* border-color: black; */
+}
+.viwe_btn {
+  margin: 5px;
+  background-color: rgb(158, 74, 25);
+  /* margin-top: 50px; */
+  width: 10%;
+  color: white;
+  border: 3px;
+  border-color: black;
+}

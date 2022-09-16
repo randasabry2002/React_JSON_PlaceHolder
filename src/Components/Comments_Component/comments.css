@@ -1,0 +1,9 @@
+.commentdiv {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(3, 141, 136);
+  margin-top: 50px;
+  width: 80%;
+  color: white;
+}
